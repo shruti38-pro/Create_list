@@ -1,0 +1,9 @@
+body {
+  padding: 50px;
+  font-family: sans-serif;
+  background-image: url("4.jpg");
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
